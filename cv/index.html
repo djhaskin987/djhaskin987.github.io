@@ -4,7 +4,22 @@ external-url:
 ---
 
 <section class="content">
-  <p>
-  Page currently under construction. Please feel free in the mean time to check out my <a href="https://www.linkedin.com/in/djhaskin987">LinkedIn</a> page!
-  </p>
+  <h2>Experience</h2>
+  {% for post in site.posts %}
+
+    <h3><strong>{{ post.title }}</strong>, <em>{{ post.company }}</em></h3>
+    <h4><em>{{ post.date_range}}</em></h4>
+    <p>{{post.content }}</p>
+
+  {% endfor %}
+  <h2>Education</h2>
+    <h3><strong>B.S. of Computer Science</strong>, <em>Brigham Young University</em></h3>
+    <h4><em>April 24, 2014</em></h4>
+    <h4><em>Minors in Math and Logic</em></h4>
+ <h2>Awards</h2>
+    <h3><strong>Eagle Scout Award</strong>, <em>Boy Scouts of America</em></h3>
+    <h4><em>July 19, 2005</em></h4>
+
 </section>
+
+
