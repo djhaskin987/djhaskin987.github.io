@@ -13,3 +13,4 @@ company: Adaptive Computing Enterprises, Inc.
 * Create a code repository which turns masterless Puppet manifests into standalone RPM packages
 * Write and maintain masterless puppet manifests used to capture the configuration of our build servers
 * Build and maintain machines essential to development operations
+* Relevant technologies: Jenkins, BASH, autotools, Puppet, Ruby, Python
