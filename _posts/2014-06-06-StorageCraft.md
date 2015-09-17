@@ -9,5 +9,5 @@ company: StorageCraft Technologies, Inc.
 * Supervise and guide the release process
 * Aid in constructing standards for releasing and managing software and dependencies
 * Ensure that builds happened on time
-* Automate build procxesses
+* Automate build processes
 * Relevant technologies: Bamboo, JIRA, Stash, Confluence, SaltStack, Linux, Python, CMake, BASH
