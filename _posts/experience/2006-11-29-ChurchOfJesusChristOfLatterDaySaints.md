@@ -8,5 +8,4 @@ company: Church Of Jesus Christ of Latter-Day Saints
 * Work with local leaders to help serve their congregations
 * Work to establish a presence in the local community
 * Work with investigators of the church to prepare them for the commitment of baptism
-* Study the gospel of Jesus Christ
-* Teach people the gospel of Jesus Christ
+* Study & teach the gospel of Jesus Christ

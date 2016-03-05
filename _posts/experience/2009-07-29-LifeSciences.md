@@ -8,6 +8,10 @@ company: Life Sciences College at Brigham Young University
 * Manage Group Policy and Active Directory objects for desktops in the college
 * Fix problems with servers
 * Write scripts for reporting
-* Development of a web interface for the Life Sciences Cluster
-* Maintenance of Life Sciences Cluster
-* Maintain a web interface for the college's reverse web proxy
+* Develop a web interface for the Life Sciences Cluster in PHP using Symfony framework
+* Maintain Life Sciences Computer Cluster
+* Maintain a PHP web interface for the college's reverse web proxy
+* Set up intrustion detection for the college's network
+* Set up a transparent router for the college's using reverse ProxyARP
+* Relevant Technologies: Active Directory, Group Policy, Altiris Deployment,
+  Snort, PHP, Symfony, Perl, ProxyARP, VMware ESXi, vSphere
