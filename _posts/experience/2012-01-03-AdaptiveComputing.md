@@ -12,5 +12,6 @@ company: Adaptive Computing Enterprises, Inc.
 * Write BASH scripts included in release tarballs necessary to create RPMs from the release tarball
 * Create a code repository which turns masterless Puppet manifests into standalone RPM packages
 * Write and maintain masterless puppet manifests used to capture the configuration of our build servers
-* Build and maintain machines essential to development operations
-* Relevant technologies: Jenkins, BASH, autotools, Puppet, Ruby, Python
+* Build and maintain machines essential to development & build operations
+* Set up smoke tests to test our entire production stack using OpenStack and Puppet
+* Relevant technologies: Jenkins, BASH, autotools, Puppet, Ruby, Python, OpenStack
