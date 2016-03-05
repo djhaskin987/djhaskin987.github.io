@@ -14,4 +14,5 @@ company: Life Sciences College at Brigham Young University
 * Implement & maintain ProxyARP transparent router
 * Implement department intrusion detection system
 * Administer Nagios/Centreon server and respond to problems
-* Relevant technologies: BASH, Debian Linux, Nagios, Centreon, PHP, Symfony, Perl, ProxyARP, Altiris, Active Directory, Group Policy, VMware ESX, vSphere, Snort
+* Set up x509 Client Certificate Authentication for our team monitor using IIS
+* Relevant technologies: BASH, Debian Linux, Nagios, Centreon, PHP, Symfony, Perl, ProxyARP, Altiris, Active Directory, Group Policy, VMware ESX, vSphere, Snort, x509, IIS, Apache
