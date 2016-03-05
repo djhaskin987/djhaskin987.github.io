@@ -1,17 +1,17 @@
 ---
 layout: job_entry
 date_range: July 2009 - December 2011
-title: Engineer
+title: Systems Administrator
 company: Life Sciences College at Brigham Young University
 ---
 * Set up new servers to meet the needs of the college
 * Manage Group Policy and Active Directory objects for desktops in the college
-* Fix problems with servers
+* Maintain over 50 department servers
 * Write scripts for reporting
 * Develop a web interface for the Life Sciences Cluster in PHP using Symfony framework
-* Maintain Life Sciences Computer Cluster
-* Maintain a PHP web interface for the college's reverse web proxy
-* Set up intrustion detection for the college's network
-* Set up a transparent router for the college's using reverse ProxyARP
-* Relevant Technologies: Active Directory, Group Policy, Altiris Deployment,
-  Snort, PHP, Symfony, Perl, ProxyARP, VMware ESXi, vSphere
+* Maintain the Life Sciences Cluster/Supercomputer
+* Maintain a web interface for the college’s reverse web proxy
+* Implement & maintain ProxyARP transparent router
+* Implement department intrusion detection system
+* Administer Nagios/Centreon server and respond to problems
+* Relevant technologies: BASH, Debian Linux, Nagios, Centreon, PHP, Symfony, Perl, ProxyARP, Altiris, Active Directory, Group Policy, VMware ESX, vSphere, Snort

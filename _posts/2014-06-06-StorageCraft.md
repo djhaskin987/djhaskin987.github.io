@@ -13,7 +13,11 @@ company: StorageCraft Technology Corporation
 * Aid in constructing standards for releasing and managing software and dependencies
 * Automate testing our kernel module, allowing us to test one build against over 90 kernels
 * Write tools in golang to help centralize our build process
+* Work with GNUPG to secure and decrypt backups
+* Construct standards for releasing and managing software and dependencies
+* Research, perform and write documentation for accomplishing Windows App Certification and Driver Signing
 * Prepare Microsoft Authenticode Signing Certificate
-* Sign our software installers for both Microsoft and Linux
+* Sign our software installers for Microsoft using Microsoft's x509 Authenticode tools
+* Sign our software RPM installers and our DEB package repositories using GPG
 * Sign our Microsoft driver using an Extended Validation Certificate making it compatible with Windows 10
 * Relevant technologies: Python, Golang, Linux, Bamboo, JIRA, BitBucket, Confluence, SaltStack, CMake, BASH, Docker, VMware ESX, Microsoft Authenticode, GPG/PGP
