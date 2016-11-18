@@ -1,6 +1,6 @@
 ---
 layout: job_entry
-date_range: July 2009 - December 2011
+date_range: July 29, 2009 - December 21, 2011
 title: Systems Administrator
 company: Life Sciences College at Brigham Young University
 ---

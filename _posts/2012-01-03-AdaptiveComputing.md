@@ -1,6 +1,6 @@
 ---
 layout: job_entry
-date_range: January 2012 - April 2014
+date_range: January 3, 2012 - April 24, 2014
 title: DevOps and Build Engineer
 company: Adaptive Computing Enterprises, Inc.
 ---
@@ -14,4 +14,4 @@ company: Adaptive Computing Enterprises, Inc.
 * Write and maintain masterless puppet manifests used to capture the configuration of our build servers
 * Build and maintain machines essential to development & build operations
 * Set up smoke tests to test our entire production stack using OpenStack and Puppet
-* Relevant technologies: Jenkins, BASH, autotools, Puppet, Ruby, Python, OpenStack
+* **Relevant technologies: Jenkins, BASH, autotools, Puppet, Ruby, Python, OpenStack**

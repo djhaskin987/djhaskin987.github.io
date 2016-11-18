@@ -1,7 +1,7 @@
 ---
 layout: job_entry
 title: Representative
-date_range: November 2006 - December 2008
+date_range: November 29, 2006 - December 4, 2008
 company: Church Of Jesus Christ of Latter-Day Saints
 ---
 * Create campaigns at local wards to encourage and support missionary work
