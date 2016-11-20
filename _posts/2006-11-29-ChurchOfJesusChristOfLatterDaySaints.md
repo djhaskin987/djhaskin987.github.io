@@ -1,5 +1,6 @@
 ---
 layout: job_entry
+type: volunteer
 title: Representative
 date_range: November 29, 2006 - December 4, 2008
 company: Church Of Jesus Christ of Latter-Day Saints

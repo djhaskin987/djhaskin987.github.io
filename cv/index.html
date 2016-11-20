@@ -4,30 +4,43 @@ external-url:
 ---
 
 <section class="content">
+  {% assign summary = site.posts | where:"type","summary" %}
+  {% assign experience = site.posts | where:"type":"job_entry" %}
+  {% assign education = site.posts | where:"type":"education" %}
+  {% assign certification = site.posts | where:"type":"certification" %}
+  {% assign volunteer = site.posts | where:"type":"volunteer" %}
+  {% assign award = site.posts | where:"type":"award" %}
+  <h2>Skills Summary</h2>
+  <p>{{ summary[0].content }}</p>
+
   <h2>Experience</h2>
-  {% for post in site.posts %}
-
-    <h3><strong>{{ post.title }}</strong>, <em>{{ post.company }}</em></h3>
-    <h4><em>{{ post.date_range}}</em></h4>
-    <p>{{post.content }}</p>
-
+  {% for post in experience %}
+  <h3><strong>{{ post.title }}</strong>, <em>{{ post.company }}</em></h3>
+  <h4><em>{{ post.date_range}}</em></h4>
+  <p>{{ post.content }}</p>
   {% endfor %}
   <h2>Education</h2>
-    <h3><strong>B.S. of Computer Science</strong>, <em>Brigham Young University</em></h3>
-    <h4><em>April 24, 2014</em></h4>
-    <h4><em>Minors in Math and Logic</em></h4>
+  {% for post in education %}
+  <h3><strong>{{ post.title }}</strong>, <em>{{ post.company }}</em></h3>
+  <h4><em>{{ post.date_range}}</em></h4>
+  <p>{{ post.content }}</p>
+  {% endfor %}
   <h2>Certifications</h2>
-  <h3><strong>SaltStack Certified Engineer</strong>, <em>SaltStack, Inc.</em></h3>
-  <h4><em>March 4, 2015</em></h4>
-  <ul><li>SSC ID: <tt>0x786CED2F</tt>, SSCE number 178</li>
-      <li>Look my certification up on https://ssc.saltstack.com/</li></ul>
-  <h3><strong>Certificate of Completion, Scrum Essentials</strong>, <em>BrainTrust Consulting Group, ScrumAlliance</em></h3>
-  <h4><em>September 28, 2016</em></h4>
-  <ul><li>Class number <tt>105_SE</tt></li></ul>
- <h2>Awards</h2>
-    <h3><strong>Eagle Scout Award</strong>, <em>Boy Scouts of America</em></h3>
-    <h4><em>July 19, 2005</em></h4>
-
+  {% for post in certification %}
+  <h3><strong>{{ post.title }}</strong>, <em>{{ post.company }}</em></h3>
+  <h4><em>{{ post.date_range}}</em></h4>
+  <p>{{ post.content }}</p>
+  {% endfor %}
+  <h2>Volunteer Work</h2>
+  {% for post in volunteer %}
+  <h3><strong>{{ post.title }}</strong>, <em>{{ post.company }}</em></h3>
+  <h4><em>{{ post.date_range}}</em></h4>
+  <p>{{ post.content }}</p>
+  {% endfor %}
+  <h2>Awards</h2>
+  {% for post in award %}
+  <h3><strong>{{ post.title }}</strong>, <em>{{ post.company }}</em></h3>
+  <h4><em>{{ post.date_range}}</em></h4>
+  <p>{{ post.content }}</p>
+  {% endfor %}
 </section>
-
-

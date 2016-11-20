@@ -1,5 +1,6 @@
 ---
 layout: job_entry
+type: job_entry
 date_range: April 28, 2014 - June 1, 2014
 title: Release Manager
 company: DealerSocket, Inc.

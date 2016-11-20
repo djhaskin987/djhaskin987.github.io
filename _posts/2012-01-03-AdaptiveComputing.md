@@ -2,6 +2,7 @@
 layout: job_entry
 date_range: January 3, 2012 - April 24, 2014
 title: DevOps and Build Engineer
+type: job_entry
 company: Adaptive Computing Enterprises, Inc.
 ---
 * Write POSIX Shell scripts for each product to completely build the project from code to release tarballs and RPMs, as well as run the unit tests

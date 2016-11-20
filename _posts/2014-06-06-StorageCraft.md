@@ -1,5 +1,6 @@
 ---
 layout: job_entry
+type: job_entry
 date_range: June 6, 2014 - November 15, 2016
 title: Release Engineer
 company: StorageCraft Technology Corporation
