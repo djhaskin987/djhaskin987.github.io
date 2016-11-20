@@ -4,22 +4,27 @@ date_range: June 6, 2014 - November 15, 2016
 title: Release Engineer
 company: StorageCraft Technology Corporation
 ---
-* Maintain build & deploy jobs in Bamboo
-* Administer Atlassian JIRA & BitBucket servers
-* Employ SaltStack to keep track of and maintain build servers
-* Employ Docker to create infrastructure-independent builds
+* Write and maintain tools integral to the build system in Python, Golang, POSIX Shell, and PowerShell
+* Automate testing our kernel module using Python, allowing us to test one build against over 90 kernels
+* Write a JIRA plugin in Java
+* Maintain BitBucket server for our git repositories
+* Use Git to track build configuration and scripts
+* Maintain and help perform releases with developer’s Git repostitories
+* Maintain build jobs in Bamboo
 * Maintain and use OpenStack on-premise cloud server as part of software builds
-* Maintain a cmake framework built to help the developers build our software cross-platform
-* Maintain a devpi server allowing the python team to have a local python wheel repository
-* Aid in constructing standards for releasing and managing software and dependencies
-* Automate testing our kernel module, allowing us to test one build against over 90 kernels
-* Write tools in golang to help centralize our build process
-* Write and maintain WiX codebase responsible for packaging our software into windows installers
-* Work with GNUPG to secure and decrypt backups
-* Construct standards for releasing and managing software and dependencies
-* Research, perform and write documentation for accomplishing Windows App Certification and Driver Signing
-* Prepare Microsoft Authenticode Signing Certificate
-* Sign our software installers for Microsoft using Microsoft’s x509 Authenticode tools
-* Sign our software RPM installers and our DEB package repositories using GPG
-* Sign our Microsoft driver using an Extended Validation Certificate making it compatible with Windows 10
-* **Relevant technologies: OpenStack, Python, Golang, Linux, Bamboo, JIRA, BitBucket, Confluence, SaltStack, Cmake, WiX, BASH, Docker, VMware ESX, Microsoft Authenticode, GPG/PGP**
+* Maintain build agents on Vmware ESX and OpenStack
+* Create OpenStack images for use by the QA and Build team using KVM/libvirt tools
+* Employ Docker to create infrastructure-independent builds
+* Maintain numerous Linux and Windows build agents
+* Create & maintain a SaltStack codebase to keep track of build agent configuration
+* Maintain custom MSBuild scripts used to package C# applications
+* Write and maintain WiX code to generate MSI installers
+* Package product for Linux using DEB and RPM installer formats
+* Sign Windows MSI installers using Microsoft Authenticode x509 Extended Validation certificate to get them to pass SmartScreen
+* Work with GNUPG to sign DEB repositories and RPM installers, and secure and decrypt backups
+* Use Grafana to monitor the OpenStack cluster for problems
+* Maintain a CMake framework built to help the developers build our software cross-platform
+* Work with Maven files to build the JIRA plugin I wrote
+* Use DNSmasq to manage DNS records in OpenStack
+* Troubleshoot general DHCP, DNS & networking issues using the nmap, arp-scan and nslookup tools
+* Maintain NAS that makes build artifacts available via NFS, SMB/CIFS, and HTTP via nginx

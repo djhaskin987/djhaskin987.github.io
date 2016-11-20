@@ -4,15 +4,18 @@ date_range: July 29, 2009 - December 21, 2011
 title: Systems Administrator
 company: Life Sciences College at Brigham Young University
 ---
-* Set up new servers to meet the needs of the college
-* Manage Group Policy and Active Directory objects for desktops in the college
-* Maintain over 50 department servers
-* Write scripts for reporting
+* Write scripts as part of maintaining servers using BASH and Perl
+* Write PHP and JavaScript scripts for a reporting web page
 * Develop a web interface for the Life Sciences Cluster in PHP using Symfony framework
-* Maintain the Life Sciences Cluster/Supercomputer
-* Maintain a web interface for the college’s reverse web proxy
-* Implement & maintain ProxyARP transparent router
-* Implement department intrusion detection system
-* Administer Nagios/Centreon server and respond to problems
+* Maintain a PHP web interface for the college’s reverse web proxy
+* Track the code base for our web interfaces via Subversion
+* Use VMware vSphere to run and administer over 50 servers for use by the department, most of them Linux and some of them Windows
+* Set up new Linux servers to meet the needs of the college
+* Maintain the Life Sciences Cluster/Supercomputer using Linux technologies such as Perceus
 * Set up x509 Client Certificate Authentication for our team monitor using IIS
-* Relevant technologies: BASH, Debian Linux, Nagios, Centreon, PHP, Symfony, Perl, ProxyARP, Altiris, Active Directory, Group Policy, VMware ESX, vSphere, Snort, x509, IIS, Apache
+* Manage Group Policy and Active Directory objects for desktops in the college
+* Administer Nagios/Centreon server and respond to problems with department servers
+* Maintain various Apache and IIS web servers
+* Implement & maintain ProxyARP transparent router
+* Implement department network intrusion detection system using Snort and Barnyard
+* Troubleshoot general DNS and IP networking issues using dig, arp-scan and nslookup
