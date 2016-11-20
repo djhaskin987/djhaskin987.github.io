@@ -1,8 +1,8 @@
 ---
 layout: job_entry
-date_range: 
+date_range:
 title: Skills Summary
-company: 
+company:
 ---
 * Languages: Python, Ruby, Golang, POSIX Shell (e.g., BASH), C++, C, C#, PowerShell, Java, Perl, PHP.
 * Source Control: Git, Subversion, Team Foundation Server (TFS).
