@@ -1,0 +1,75 @@
+﻿==================================================================
+https://keybase.io/djhaskin987
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://djhaskin987.github.io
+  * I am djhaskin987 (https://keybase.io/djhaskin987) on keybase.
+  * I have a public key with fingerprint F54C FF73 1E7E 01C3 AE74  9B30 D62D AA3E 080E 17A9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101145e4aaebc2e31d5d19a55ffc7aae882c0fb9a59856b77db3bb319715da30f1d0a",
+            "fingerprint": "f54cff731e7e01c3ae749b30d62daa3e080e17a9",
+            "host": "keybase.io",
+            "key_id": "d62daa3e080e17a9",
+            "kid": "0101145e4aaebc2e31d5d19a55ffc7aae882c0fb9a59856b77db3bb319715da30f1d0a",
+            "uid": "787c3b1d52652ec979bf3773d0ee0f19",
+            "username": "djhaskin987"
+        },
+        "service": {
+            "hostname": "djhaskin987.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1481491445,
+    "expire_in": 157680000,
+    "prev": "9dabb1024db57fea4a02183d2c224eb364ca346fb3b8db860273374baa3d735d",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.60
+Comment: https://keybase.io/crypto
+
+yMNDAnicrZJ/TFVlGMe5twDFIWrIr7nAQ8IUxPPzvudcA2T8CMN+CLZRY97Oe857
+4Fzgnss9BxAYYOsunOBI7iY1krGC2nUkIaVoNKNktUn8KIJ1c1kaLLAwQIeiaedQ
+/VV/9v7z7n3e7/N5vs+z51LwI35Bpsmdp1LWrA/3mi4Pdpb75T/z+e0aDCpiFWat
+wYrR6oVKRKRqtmJZxKwYTuAEQTOI5nkEBRJRhMiIBMczjCQJQA+yLCngEtQjHMtY
+IAAipCCkCA4QjMhTuESIOI8lYpLsKEQup0t2aDpWYmhBkgBFIIBwQqB4BGgOUrho
+IUWepxDO4ogAPKcnFimqkaGbg7yKkmRFj+kP26q9/9D/z77LV3GABQIFdQZpYUgk
+cICDEgUAJeII6VKjbrmKXA6+FBmu7EW8Wiw7OBZgtYmY/lEhC8iYrdHMv0VJhbJW
+VA7/6s3pUjRFUEp0SZGmOVWrgdCqnEZOJYK2v2k2KDtEfaZ6RgVyqbLiwKyErhQ0
+2cATNEvQHEHTTCKGDjllF7LJhoIBFhbXj1EHVehITuQhJHCSFiEDJMTTPE4SLCWS
+AknSCFIWWuAp2iLp02FFyFpwElAUoKE+dRFQjIgZ/ZU5FJ3N6T75Qp2pyoUOXit3
+Iaz2s8GCR/1MQX4B/mZj2fyC1m74ZwUXskNWzLFNGdHWQ4+njQfVW5f7O7qGlMYz
+19uqJ3fWJ7/uhTP28ekHHvDmnviQ8ZW2bfPN17bHDbdHFTSlzP1eSY02/6Lt8AU0
+nmMCctLa/bPcgYH9nuXDUZu3TPqIswMDvpWy5MXQ7ZEjJzLsPbeOcmO9cW/U1ya0
+VJpLSx9LephDP7fGHXz+17EFGNO2GOplOsQDNzvTP128a0qSqmMyt86e2TwWPRR5
+MeL5e+NfYHZP7tJPm1Lvp9+h7C8XXpj+MtN9be/UW+8o70m9viWyQ93We7IBP3i/
+7Cml2968e2PX+J5Yr1AXPovI7upnzS3x3WE3uY+Jk2nvyu6w8+6hiCtPZA2tX6rJ
+Wgx2ZnjDmpTlpv6JfQm7p/176lKEr1ODriz0cQ9PnRYSbS/NCVvzG/f3Zqflz5Qd
+Pt53jC64G1tW4tjxwpG9Mb7JwNfGWjdNuLXWy3X3Iovybmz8pHFCilkoNb3d/JE3
+q1RSo6bufHc9enRXKnN8oOTcyNXISI+nbiZ7667l9tEce+p8+h/uV5jvgdtjfv+G
+LTni6rEPY2eHc/t+bPogRu3sCq2+kOmtWKBL1oX7hq3f+qq0g9b5UToqL7fndPil
+vJYHT24Z7FusNNe+6PxqX1xDyhT4gTvw82xt6ze++It070iC6ZZ1f8jR6omxhiMb
+7KEn1v2WOHJ27dMpc/bbr/4JY7nEFA==
+=9Ewt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/djhaskin987
+
+==================================================================
+
