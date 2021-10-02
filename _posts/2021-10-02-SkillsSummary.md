@@ -5,10 +5,10 @@ title: Skills Summary
 ---
 * Languages: Python, Ruby, Golang, POSIX Shell (e.g., BASH), C++, C, C#, PowerShell, Java, Perl, PHP.
 * Source Control: Git, Subversion, Team Foundation Server (TFS).
-* Continuous Integration/Delivery: Bamboo, Jenkins, Travis CI, GitLab.
-* Virtualization/Containerization: VMware vSphere, VMware Workstation, OpenStack, KVM/libvirt, VirtualBox, Docker, Amazon AWS.
+* Continuous Integration/Delivery: Bamboo, Jenkins, Travis CI, TeamCity, GitLab.
+* Virtualization/Containerization: Amazon AWS, Docker, Nutanix, VMware vSphere, VMware Workstation, OpenStack, KVM/libvirt, VirtualBox.
 * Operating Systems: Linux, Windows.
-* Configuration Mangement: SaltStack, Puppet.
+* Configuration Mangement: Terraform, Ansible, SaltStack, Puppet.
 * Packaging and Installers: DEB, RPM, MSI via WiX
 * Cryptography: x509, Microsoft Authenticode, GPG
 * Monitoring: Nagios, Centreon, Grafana
