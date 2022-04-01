@@ -1,7 +1,7 @@
 ---
 layout: job_entry
 type: job_entry
-date_range: May 1, 2018 - Present
+date_range: May 1, 2018 - October 31, 2021
 title: Automation Engineer
 company: Verisk Analytics
 ---
